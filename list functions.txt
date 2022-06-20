@@ -1,0 +1,13 @@
+''' list functions
+len()    insert()
+append()  copy()
+extend()  count()
+remove()  pop()
+sort()    reversed() clear() '''
+my_list=[10,20,30,40,50]
+n=len(my_list)
+print(n)
+my_list.insert(1,5) '''here 1 represent the position to be insert'''
+my_list.append(60)
+my_list.pop()''' it removes the last element of the list
+my_list.pop()
